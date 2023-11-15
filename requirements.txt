@@ -1,0 +1,9 @@
+Flask
+Flask_Cors
+openai
+pandas
+python-dotenv
+tensorflow
+tensorflow_intel
+transformers
+Gunicorn
